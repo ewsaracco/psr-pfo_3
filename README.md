@@ -1,7 +1,7 @@
-# PFO 3: Sistema Distribuido (Cliente-Servidor)
+# PRÁCTICA FORMATIVA OBLIGATORIA 3: Sistema Distribuido (Cliente-Servidor)
 
 ## Descripción
-Este repositorio contiene la resolución de la Práctica Final Obligatoria (PFO) 3.
+Este repositorio contiene la resolución de la Práctica Formativa Obligatoria 3.
 
 El proyecto cubre:
 1. El diseño teórico de la arquitectura completa (balanceador, workers, colas de mensajes y almacenamiento).
