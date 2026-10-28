@@ -1,4 +1,11 @@
-# PRÁCTICA FORMATIVA OBLIGATORIA 3: Sistema Distribuido (Cliente-Servidor)
+# Instituto de Formación Técnica Superior N° 29
+
+# Programación Sobre Redes
+# Práctica Formativa Obligatoria 3: Sistema Distribuido (Cliente-Servidor)
+
+* **Alumno:** Enrique W. Saracco
+* **Profesor:** Alan Portillo
+* **Curso / Comisión:** 3° – 2026–2C - E
 
 ## Descripción
 Este repositorio contiene la resolución de la Práctica Formativa Obligatoria 3.
