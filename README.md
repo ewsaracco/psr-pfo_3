@@ -21,8 +21,11 @@ El proyecto cubre:
 > **Nota sobre el Diagrama:** El diseño arquitectónico completo (que modela la integración de Nginx, RabbitMQ, PostgreSQL y S3) se entrega como un archivo de imagen adjunto por fuera de este documento, cumpliendo con la separación de entregables solicitada en la consigna.
 
 #### Requisitos de Ejecución
-* Python 3.x
-* No se requieren librerías externas (se utiliza únicamente la librería estándar de Python).
+- Python 3.x
+- Librería externa `werkzeug` para el cifrado de contraseñas. 
+
+Se puede instalar ejecutando:
+`pip install Werkzeug`
 
 #### Instrucciones de Uso
 

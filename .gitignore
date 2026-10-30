@@ -4,3 +4,9 @@ __pycache__/
 venv/
 env/
 .env
+
+# Bases de datos
+*.db
+
+# Archivos temporales y de otras pruebas
+temp_tareas.html
